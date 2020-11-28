@@ -6,4 +6,8 @@ def get_score():
 	
 	
 def get_another_score():
+    pass
+
+
+def feature1_score():
     pass	
